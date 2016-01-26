@@ -1,0 +1,40 @@
+{
+   "News":[
+      {
+         "id":1,
+         "title":"Inscription au congrès",
+         "description":"Changement des tarifs de l’inscription le 1er mars 2016 et le 20 avril 2016, clôture des inscriptions en ligne. Au-delà, vous pourrez vous inscrire à l’accueil du congrès.",
+		 "date":1453729624000
+      },
+      {
+         "id":2,
+         "title":"Programme préliminaire",
+         "description":"Le programme préliminaire du congrès sera disponible sur le site internet à partir du 01 mars 2016.",
+		 "date":1453629624000
+      },
+      {
+         "id":3,
+         "title":"Inscription au congrès",
+         "description":"Le programme définitif du congrès sera accessible sur le site internet à partir du 20 mars 2016.",
+		 "date":1453529624000
+      },
+      {
+         "id":4,
+         "title":"Hébergement",
+         "description":"Des tarifs préférentiels vous seront accordés par les hôtels SHERATON et FOUR POINT BY SHERATON, partenaire du congrès.",
+		 "date":1453429624000
+      },
+      {
+         "id":5,
+         "title":"Installation des exposants",
+         "description":"L'installation des exposants se fera le 11 mai 2016.",
+		 "date":1453329624000
+      },
+      {
+         "id":6,
+         "title":"Ouverture du congrès",
+         "description":"La date de l'Ouverture du congrès est le 12 mai 2016",
+		 "date":1453229624000
+      }
+   ]
+}
